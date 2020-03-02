@@ -35,7 +35,7 @@ class Sets:
         self.RHTTP = 0
         self.RHTTPS = 1
         self.SBUFF = 1024
-        self.TIMEOUT = 60
+        self.TIMEOUT = 1
         self.PHOST = ''
         self.PPORT = 0
         self.PTYPE = 0
